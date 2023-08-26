@@ -2,21 +2,12 @@
 
 The Earth-Mars Communication API is a Node.js Express application that facilitates communication between Earth and Mars by encoding and decoding messages using the Nokia keypad pattern. It includes a custom middleware to check sender and receiver headers in the API requests.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Example](#example)
-- [Dependencies](#dependencies)
-- [License](#license)
-
 ## Installation
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/earth-mars-communication.git
+   git clone https://github.com/Venkatsai04/earth-mars/edit/main
    cd earth-mars-communication
 
    
